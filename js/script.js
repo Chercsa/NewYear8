@@ -10,6 +10,8 @@ $(document).ready(function(){
 		variableWidth:true,
 		initialSlide:2,
 		adaptiveHeight:true,
+		centerPadding: '40px',
+
 	});
 
 });
