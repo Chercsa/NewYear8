@@ -11,6 +11,7 @@ $(document).ready(function(){
 		initialSlide:2,
 		adaptiveHeight:true,
 		centerPadding: '40px',
+		slidesToShow:1,
 
 	});
 
